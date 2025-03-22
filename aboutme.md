@@ -1,0 +1,6 @@
+-  hello world, eu sou o marcos
+-  atualmente, meu sonho é aprender python e lua
+-  estou estudando html e css
+-  meus objetivos são: trabalhar com programação e ser um desenvolvedor de jogos
+-  sou um grande fã de fórmula um e futebol, sou torcedor da scuderia ferrari, flamengo e manchester united
+-  eu odeio java
